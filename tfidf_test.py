@@ -1,10 +1,4 @@
 #!/usr/bin/env python
-# 
-# Copyright (C) 2009.  All rights reserved.
-
-__author__ = "Niniane Wang"
-__email__ = "niniane at gmail dot com"
-
 import math
 import tfidf
 import unittest

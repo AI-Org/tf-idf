@@ -1,26 +1,4 @@
 #!/usr/bin/env python
-# 
-# Copyright 2009  Niniane Wang (niniane@gmail.com)
-# Reviewed by Alex Mendes da Costa.
-#
-# This is a simple Tf-idf library.  The algorithm is described in
-#   http://en.wikipedia.org/wiki/Tf-idf
-#
-# This library is free software; you can redistribute it and/or
-# modify it under the terms of the GNU Lesser General Public
-# License as published by the Free Software Foundation; either
-# version 3 of the License, or (at your option) any later version.
-#
-# Tfidf is distributed in the hope that it will be useful,
-# but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-# Lesser General Public License for more details:
-#
-#   http://www.gnu.org/licenses/lgpl.txt
-
-__author__ = "Niniane Wang"
-__email__ = "niniane at gmail dot com"
-
 import math
 import re
 from operator import itemgetter
